@@ -16,5 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="alarm_type_ringtone">鈴聲</string>
+  <string name="cities_add_city_failed">無法建立城市</string>
+  <string name="cities_delete_city_failed">無法刪除城市</string>
 </resources>
